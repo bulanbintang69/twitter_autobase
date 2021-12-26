@@ -1,3 +1,9 @@
+
+#### Deploy on Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bulanbintang69/twitter_autobase)</br>
+
+
+
 # twitter_autobase
 A Twitter bot that can read your DMs, then tweets like Twitter autobase. This project is a re-code of [autodm_base](https://github.com/ydhnwb/autodm_base) by [Prieyudha Akadita S.](https://github.com/ydhnwb) with many improvements and fixed bugs. I know this bot is not perfect yet, so, issues and pull requests are welcome.
 
